@@ -37,7 +37,7 @@ Jrge-V
 <img align="left" alt="git" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
 <br></br>
-<br></br>
+
 ---
 
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1666851939/62008/party-github.gif?1666851939" width="30"/> My Repo's 
