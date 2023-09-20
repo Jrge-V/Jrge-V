@@ -51,11 +51,7 @@ Jrge-V
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jrge-v&repo=InventoryManagement-VideoRentalShop&theme=moltack)](https://github.com/Jrge-V/InventoryManagement-VideoRentalShop)
 
-
-
-
-
-
-
+---
+<br>
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jrge-v&theme=nord_dark" />
