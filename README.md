@@ -5,3 +5,5 @@ Jrge-V
 <p>Welcome to my page! I'm Jorge, an aspiring SWE.</p>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jrge-v&theme=github" />
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jrge-v&theme=github">
