@@ -3,7 +3,9 @@
 Jrge-V
 </h1>
 <p>Welcome to my page!<br> I'm Jorge, an aspiring SWE.</p>
+
 ---
+
 <h3>My Languages and Tools <img src="https://emojis.slackmojis.com/emojis/images/1643510996/40036/wrenchin.gif?1643510996" width="25"/>
 </h3>
 
@@ -52,6 +54,6 @@ Jrge-V
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jrge-v&repo=InventoryManagement-VideoRentalShop&theme=moltack)](https://github.com/Jrge-V/InventoryManagement-VideoRentalShop)
 
 ---
-<br>
 
+<h3>📊 Stats </h3>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jrge-v&theme=nord_dark" />
