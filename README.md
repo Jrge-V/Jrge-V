@@ -47,13 +47,13 @@ Jrge-V
 
 ---
 
-<p>
-<img align="left" alt="github" src="https://raw.githubusercontent.com/Jrge-V/Jrge-V/main/src/gifs/party-github.gif"  width="30">
-</p> 
-
 <h3>
 My Repositories 
 </h3>
+
+<p>
+<img align="right" alt="github" src="https://raw.githubusercontent.com/Jrge-V/Jrge-V/main/src/gifs/party-github.gif"  width="400">
+</p> 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jrge-v&repo=COMP584-vendyLA&theme=moltack)](https://github.com/Jrge-V/COMP584-vendyLA)
 
