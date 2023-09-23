@@ -1,6 +1,6 @@
 
 
-![Waving](https://raw.githubusercontent.com/Jrge-V/Jrge-V/main/src/gifs/mario_wave.gif)
+<img src="https://raw.githubusercontent.com/Jrge-V/Jrge-V/main/src/gifs/mario_wave.gif" width="60"> 
 
 
 <h1> 
