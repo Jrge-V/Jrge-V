@@ -3,8 +3,6 @@
 <img align="left" alt="mario"src="https://raw.githubusercontent.com/Jrge-V/Jrge-V/main/src/gifs/mario_wave.gif" width="60">
 </p> 
 
-
- 
 <h1>
 Jrge-V
 </h1>
@@ -14,7 +12,8 @@ Jrge-V
 
 ---
 
-<h3>My Languages and Tools <img src="https://raw.githubusercontent.com/Jrge-V/Jrge-V/main/src/gifs/wrenchin.gif" width="25"/>
+<h3>
+🔧 My Languages and Tools
 </h3>
 
 
@@ -48,7 +47,12 @@ Jrge-V
 
 ---
 
-<h3><img src="https://raw.githubusercontent.com/Jrge-V/Jrge-V/main/src/gifs/party-github.gif" width="30"/> My Repositories 
+<p>
+<img align="left" alt="github" src="https://raw.githubusercontent.com/Jrge-V/Jrge-V/main/src/gifs/party-github.gif"  width="30">
+</p> 
+
+<h3>
+My Repositories 
 </h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jrge-v&repo=COMP584-vendyLA&theme=moltack)](https://github.com/Jrge-V/COMP584-vendyLA)
