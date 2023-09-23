@@ -1,6 +1,7 @@
 
-
-<img src="https://raw.githubusercontent.com/Jrge-V/Jrge-V/main/src/gifs/mario_wave.gif" width="60"> 
+<p>
+<img src="https://raw.githubusercontent.com/Jrge-V/Jrge-V/main/src/gifs/mario_wave.gif" width="60">
+</p> 
 
 
 <h1> 
