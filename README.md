@@ -3,7 +3,7 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1643515397/14160/mario_wave.gif?1643515397" width="60"> 
 Jrge-V
 </h1>
-<p>Welcome to my page!<br> I'm Jorge, an aspiring SWE.</p>
+<p>Hello, I'm Jorge.<br>Welcome to my page!</p>
 
 ---
 
@@ -41,7 +41,7 @@ Jrge-V
 
 ---
 
-<h3><img src="https://emojis.slackmojis.com/emojis/images/1666851939/62008/party-github.gif?1666851939" width="30"/> My Repo's 
+<h3><img src="https://emojis.slackmojis.com/emojis/images/1666851939/62008/party-github.gif?1666851939" width="30"/> My Repositories 
 </h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jrge-v&repo=COMP584-vendyLA&theme=moltack)](https://github.com/Jrge-V/COMP584-vendyLA)
