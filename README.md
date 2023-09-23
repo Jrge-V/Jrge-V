@@ -1,13 +1,13 @@
 <h1> 
 
-<img src="https://emojis.slackmojis.com/emojis/images/1643515397/14160/mario_wave.gif?1643515397" width="60"> 
+<img src="https://raw.githubusercontent.com/Jrge-V/Jrge-V/main/src/gifs/mario_wave.gif" width="60"> 
 Jrge-V
 </h1>
 <p>Hello, I'm Jorge.<br>Welcome to my page!</p>
 
 ---
 
-<h3>My Languages and Tools <img src="https://emojis.slackmojis.com/emojis/images/1643510996/40036/wrenchin.gif?1643510996" width="25"/>
+<h3>My Languages and Tools <img src="https://raw.githubusercontent.com/Jrge-V/Jrge-V/main/src/gifs/wrenchin.gif" width="25"/>
 </h3>
 
 
@@ -41,7 +41,7 @@ Jrge-V
 
 ---
 
-<h3><img src="https://emojis.slackmojis.com/emojis/images/1666851939/62008/party-github.gif?1666851939" width="30"/> My Repositories 
+<h3><img src="https://raw.githubusercontent.com/Jrge-V/Jrge-V/main/src/gifs/party-github.gif" width="30"/> My Repositories 
 </h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jrge-v&repo=COMP584-vendyLA&theme=moltack)](https://github.com/Jrge-V/COMP584-vendyLA)
