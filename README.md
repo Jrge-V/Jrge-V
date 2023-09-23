@@ -48,7 +48,7 @@ Jrge-V
 ---
 
 <p>
-<img align="left" alt="github" src="https://raw.githubusercontent.com/Jrge-V/Jrge-V/main/src/gifs/party-github.gif"  width="40">
+<img align="left" alt="github" src="https://raw.githubusercontent.com/Jrge-V/Jrge-V/main/src/gifs/party-github.gif"  width="30">
 </p> 
 
 <h3>
