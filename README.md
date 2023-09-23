@@ -1,13 +1,15 @@
 
 <p>
-<img src="https://raw.githubusercontent.com/Jrge-V/Jrge-V/main/src/gifs/mario_wave.gif" width="60">
+<img align="left" alt="mario"src="https://raw.githubusercontent.com/Jrge-V/Jrge-V/main/src/gifs/mario_wave.gif" width="60">
 </p> 
 
 
-<h1> 
-<img src="https://raw.githubusercontent.com/Jrge-V/Jrge-V/main/src/gifs/mario_wave.gif" width="60"> 
+ 
+<h1>
 Jrge-V
 </h1>
+
+
 <p>Hello, I'm Jorge.<br>Welcome to my page!</p>
 
 ---
