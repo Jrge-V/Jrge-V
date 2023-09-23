@@ -1,5 +1,9 @@
-<h1> 
 
+
+![Waving](https://raw.githubusercontent.com/Jrge-V/Jrge-V/main/src/gifs/mario_wave.gif)
+
+
+<h1> 
 <img src="https://raw.githubusercontent.com/Jrge-V/Jrge-V/main/src/gifs/mario_wave.gif" width="60"> 
 Jrge-V
 </h1>
